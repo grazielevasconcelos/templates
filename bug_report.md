@@ -1,4 +1,4 @@
-# Bug Report
+# 🐞 Bug Report
 
 ## 🤔 O que deu errado?
 
@@ -44,6 +44,8 @@ Internal Application
 - [ ] App name
 - [ ] Outros:  [descrever]
 
+---
+
 ## 🎯 Comportamento esperado
 
 >  [Descrever]
@@ -54,6 +56,8 @@ Internal Application
 - 🖼️ [gif] 
 - 📼 [vídeo]
 - 🔗 [url]
+
+---
 
 ## 😅 Comportamento real detalhado
 
@@ -66,6 +70,7 @@ Internal Application
 - 📼 [vídeo]
 - 🔗 [url]
 
+---
 
 ## 📑 Etapas para reproduzir o problema
 
@@ -77,6 +82,8 @@ Internal Application
 - 🖼️ [gif] 
 - 📼 [vídeo]
 - 🔗 [url]
+
+---
 
 ## 🚀 Solução
 
